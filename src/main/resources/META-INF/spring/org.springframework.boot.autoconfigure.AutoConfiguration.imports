@@ -1,0 +1,2 @@
+#@AutoConfiguration 대상이 되는 클래스 경로
+memory.MemoryAutoConfig
